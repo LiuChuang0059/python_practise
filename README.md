@@ -12,4 +12,4 @@
 ##1 list
 
 
-###1 list1
+###1 [list_删减访问](https://github.com/LiuChuang0059/Pythonpra/blob/master/prc_list.py)
