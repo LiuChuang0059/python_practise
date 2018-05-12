@@ -5,3 +5,11 @@
 
 
 [3.codewar](https://www.codewars.com/users/LiuChuang0059)
+
+
+#4.python从入门到实践
+
+##1 list
+
+
+###1 list1
