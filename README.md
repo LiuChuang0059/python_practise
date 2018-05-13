@@ -13,3 +13,7 @@
 
 
 ###1 [list_删减访问](https://github.com/LiuChuang0059/Pythonpra/blob/master/prc_list.py)
+
+###2 [list_排序](https://github.com/LiuChuang0059/Pythonpra/blob/master/prc_list2.py)
+
+###3 [list_value](https://github.com/LiuChuang0059/Pythonpra/blob/master/prc_list_value.py)
