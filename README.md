@@ -17,3 +17,12 @@
 ###2 [list_排序](https://github.com/LiuChuang0059/Pythonpra/blob/master/prc_list2.py)
 
 ###3 [list_value](https://github.com/LiuChuang0059/Pythonpra/blob/master/prc_list_value.py)
+
+
+##2 dict
+
+###1[列表中有字典](https://github.com/LiuChuang0059/Pythonpra/blob/master/dict_list.py)
+
+###2[字典中有列表](https://github.com/LiuChuang0059/Pythonpra/blob/master/dict_list2.py)
+
+###3[字典中有字典](https://github.com/LiuChuang0059/Pythonpra/blob/master/dict_dict.py)
