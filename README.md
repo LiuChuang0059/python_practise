@@ -1,10 +1,18 @@
 [1.python 学习笔记](https://www.zybuluo.com/zzzxxxyyy/note/1117755)
 
 
-[2.python小程序练习](https://www.zybuluo.com/zzzxxxyyy/note/1144647)
+[2.算法笔记](https://www.zybuluo.com/zzzxxxyyy/note/1150212)
 
 
-[3.codewar](https://www.codewars.com/users/LiuChuang0059)
+[3.python小程序练习](https://www.zybuluo.com/zzzxxxyyy/note/1144647)
+
+
+[4.codewar](https://www.codewars.com/users/LiuChuang0059)
+
+
+[5.Django](https://www.zybuluo.com/zzzxxxyyy/note/1150214)
+
+
 
 
 #4.python从入门到实践
