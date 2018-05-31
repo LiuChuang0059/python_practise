@@ -30,4 +30,4 @@
 
 
 
-[Deep learning by 吴恩达  学习笔记](https://www.zybuluo.com/zzzxxxyyy/note/1167059)
+[7.Deep learning by 吴恩达  学习笔记](https://www.zybuluo.com/zzzxxxyyy/note/1167059)
