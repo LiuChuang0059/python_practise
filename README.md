@@ -8,7 +8,7 @@
 [2.算法笔记](https://www.zybuluo.com/zzzxxxyyy/note/1150212)
 
 
-[2.算法笔记](https://www.jianshu.com/p/c9ec4ba5eda0)
+
 
 [3.python小项目练习](https://www.zybuluo.com/zzzxxxyyy/note/1144647)
 
@@ -31,3 +31,14 @@
 
 
 [7.Deep learning by 吴恩达  学习笔记](https://www.zybuluo.com/zzzxxxyyy/note/1167059)
+
+
+
+
+[8.numpy_learning](https://www.zybuluo.com/zzzxxxyyy/note/1180547)
+
+
+
+
+
+
