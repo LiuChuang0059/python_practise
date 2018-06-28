@@ -44,6 +44,6 @@
 
 
 
-[10.pyinstaller . 生成 可执行文件](https://www.zybuluo.com/zzzxxxyyy/note/1196585)
+[10.生成 可执行文件](https://www.zybuluo.com/zzzxxxyyy/note/1196585)
 
 
