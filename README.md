@@ -44,6 +44,6 @@
 
 
 
-
+[10.pyinstaller . 生成 可执行文件](https://pyinstaller.readthedocs.io/en/latest/usage.html)
 
 
