@@ -28,30 +28,8 @@ def fillImage(image):
     else:
         new_image.paste(image,(int((length-width)/2),0))
     return new_image
-"""
-def cutImage(image):
-    width, height = image.size
-    print('原图的尺寸', width, height)
-    item_width = int(width / 3)
-    item_height = int(height / 3)
 
-    # 保存每一个小切图的区域
-    box_list = []
-
-    for i in range(3):
-        for j in range(3):
-            # 切图区域是矩形，位置由对角线的两个点(左上和右下)确定
-            # 去掉fill_image 精确切分成9块，但是朋友圈九宫格缩略图都是正方形，整体看起来就不完整，不推荐这种方法。
-            # box = (j * item_width, i * item_height, (j + 1) * item_width, (i + 1) * item_height)
-            box = (j * item_width, i * item_width, (j + 1) * item_width, (i + 1) * item_width)
-            box_list.append(box)
-
-    # print('box_list', box_list)
-
-    image_list = [image.crop(box) for box in box_list]
-    return image_list
-
-"""
+  
 def cutImage(image):
     """
     cut into 9 parts  3X3
