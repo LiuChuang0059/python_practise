@@ -5,6 +5,7 @@ Created on Sat Jul  7 00:19:21 2018
 
 @author: liuchuang
 
+参考 https://www.shiyanlou.com/courses/370/labs/1191/document
 
 目前 只能转换背景为白色的图片
 
