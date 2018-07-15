@@ -35,15 +35,28 @@
 
 
 
-[8.numpy_learning](https://www.zybuluo.com/zzzxxxyyy/note/1180547)
+
+[8.生成 可执行文件](https://www.zybuluo.com/zzzxxxyyy/note/1196585)
+
+
+
+----------
+
+[1.module_numpy](https://www.zybuluo.com/zzzxxxyyy/note/1180547)
 
 
 
 
-[9.scipy_learning](https://www.zybuluo.com/zzzxxxyyy/note/1180976)
+
+[2.module_scipy](https://www.zybuluo.com/zzzxxxyyy/note/1180976)
 
 
 
-[10.生成 可执行文件](https://www.zybuluo.com/zzzxxxyyy/note/1196585)
+
+
+[3.module_timeAndDatetime](https://www.zybuluo.com/zzzxxxyyy/note/1213863)
+
+
+
 
 
