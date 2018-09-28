@@ -1,60 +1,64 @@
 
 
-[1.python 学习笔记](https://www.zybuluo.com/zzzxxxyyy/note/1117755)
-
-
-
-
-[2.算法笔记](https://www.zybuluo.com/zzzxxxyyy/note/1150212)
-
-
-
-
-[3.python小项目练习](https://www.zybuluo.com/zzzxxxyyy/note/1144647)
-
-
-
-
-[4.codewar算法练习](https://www.codewars.com/users/LiuChuang0059)
-
-
-
-
-[5.Django](https://www.zybuluo.com/zzzxxxyyy/note/1150214)
-
-
-
-
-[6.<python从入门到实践> 学习笔记](https://www.zybuluo.com/zzzxxxyyy/note/1167048)
-
-
-
-
-[7.Deep learning by 吴恩达  学习笔记](https://www.zybuluo.com/zzzxxxyyy/note/1167059)
+[1.python--基础学习](https://github.com/LiuChuang0059/python_practise/blob/master/python_fundamental/README.md)
 
 
 
 
 
-[8.生成 可执行文件](https://www.zybuluo.com/zzzxxxyyy/note/1196585)
+
+[2.python--小项目练习](https://github.com/LiuChuang0059/python_practise/blob/master/items/README.md)
 
 
 
+
+[3.python--codewar算法练习](https://www.codewars.com/users/LiuChuang0059)
+
+
+
+
+[4.python--Leetcode 算法练习](https://github.com/LiuChuang0059/python_practise/blob/master/leecode/README.md)
+
+
+
+
+
+
+
+
+
+
+
+----------
+---------
 ----------
 
-[1.module_numpy](https://www.zybuluo.com/zzzxxxyyy/note/1180547)
+## python 模块
+
+[1. Numpy](https://github.com/LiuChuang0059/python_practise/blob/master/python_Numpy/README.md)
 
 
 
 
 
-[2.module_scipy](https://www.zybuluo.com/zzzxxxyyy/note/1180976)
+[2. Pandas](https://github.com/LiuChuang0059/python_practise/blob/master/python-Pandas/README.md)
 
 
 
 
 
-[3.module_timeAndDatetime](https://www.zybuluo.com/zzzxxxyyy/note/1213863)
+[3. timeAndDatetime](https://github.com/LiuChuang0059/python_practise/blob/master/python_time/README.md)
+
+
+
+[4. 文件处理模块](https://github.com/LiuChuang0059/python_practise/blob/master/python_ProcessFile/README.md)
+
+
+
+[5. PyAutoGui-自动控制模块 ](https://github.com/LiuChuang0059/python_practise/blob/master/python_PyAutoGui/README.md)
+
+
+
 
 
 
