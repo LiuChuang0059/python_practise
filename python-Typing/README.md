@@ -11,3 +11,5 @@
 ## 1. 基本使用
 
 https://github.com/LiuChuang0059/python_practise/blob/master/python-Typing/python-typing.ipynb
+
+* 参考：作者：zhbzz2007 出处：http://www.cnblogs.com/zhbzz2007 
