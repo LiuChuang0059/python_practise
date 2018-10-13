@@ -10,4 +10,4 @@
 
 ## 1. 基本使用
 
-
+https://github.com/LiuChuang0059/python_practise/blob/master/python-Typing/python-typing.ipynb
