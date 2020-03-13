@@ -12,13 +12,9 @@
 
 
 
-[3.python--codewar算法练习](https://www.codewars.com/users/LiuChuang0059)
+-----
 
-
-
-
-[4.python--Leetcode 算法练习](https://github.com/LiuChuang0059/python_practise/blob/master/leecode/README.md)
-
+[python 入门图书 PDF](https://github.com/LiuChuang0059/python_practise/tree/master/Books)
 
 
 
@@ -29,33 +25,8 @@
 
 
 
-----------
----------
-----------
-
-## python 模块
-
-[1. Numpy](https://github.com/LiuChuang0059/python_practise/blob/master/python_Numpy/README.md)
 
 
-
-
-
-[2. Pandas](https://github.com/LiuChuang0059/python_practise/blob/master/python-Pandas/README.md)
-
-
-
-
-
-[3. timeAndDatetime](https://github.com/LiuChuang0059/python_practise/blob/master/python_time/README.md)
-
-
-
-[4. 文件处理模块](https://github.com/LiuChuang0059/python_practise/blob/master/python_ProcessFile/README.md)
-
-
-
-[5. PyAutoGui-自动控制模块 ](https://github.com/LiuChuang0059/python_practise/blob/master/python_PyAutoGui/README.md)
 
 
 
